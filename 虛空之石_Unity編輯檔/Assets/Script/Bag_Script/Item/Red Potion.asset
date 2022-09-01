@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: caf109e854d38c2498a875c94dfa1467, type: 3}
+  m_Name: Red Potion
+  m_EditorClassIdentifier: 
+  itemNum: 1
+  itemName: Red Potion
+  itemImage: {fileID: -3237844493445452581, guid: 94f3e2feb5ea6b94cbd9fc37158db7c7,
+    type: 3}
+  itemHeld: 5
+  itemInfo: 
+  healValue: 1
+  useItemAudioPrefab: {fileID: 4002763276349165046, guid: 9b774f64b729eec499a43c564f69a8be,
+    type: 3}

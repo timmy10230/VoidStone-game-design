@@ -1,0 +1,971 @@
+fileFormatVersion: 2
+guid: 6dba8bd4fc3811f41bd5f70b9bc6a5da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8795282582845764243
+    second: Old_Golem_death_0
+  - first:
+      213: -6637468490446954545
+    second: Old_Golem_death_1
+  - first:
+      213: -6710656760816753226
+    second: Old_Golem_death_2
+  - first:
+      213: -6969436019107603964
+    second: Old_Golem_death_3
+  - first:
+      213: 5564738261682950123
+    second: Old_Golem_death_4
+  - first:
+      213: -931843399073966158
+    second: Old_Golem_death_5
+  - first:
+      213: 2251715643841041659
+    second: Old_Golem_death_6
+  - first:
+      213: -4083904813159725749
+    second: Old_Golem_death_7
+  - first:
+      213: -7856400930752201174
+    second: Old_Golem_death_8
+  - first:
+      213: 5653155384272450459
+    second: Old_Golem_death_9
+  - first:
+      213: 5122547999690301410
+    second: Old_Golem_death_10
+  - first:
+      213: 7955245570883658586
+    second: Old_Golem_death_11
+  - first:
+      213: -5049308175351559347
+    second: Old_Golem_death_12
+  - first:
+      213: -3947704314330719529
+    second: Old_Golem_death_13
+  - first:
+      213: 3083078265724179129
+    second: Old_Golem_death_14
+  - first:
+      213: 741868284556283329
+    second: Old_Golem_death_15
+  - first:
+      213: 1130496299415428255
+    second: Old_Golem_death_16
+  - first:
+      213: 653428804583460334
+    second: Old_Golem_death_17
+  - first:
+      213: -5761667462914042176
+    second: Old_Golem_death_18
+  - first:
+      213: 8501934890470046747
+    second: Old_Golem_death_19
+  - first:
+      213: -6245321413857388309
+    second: Old_Golem_death_20
+  - first:
+      213: -2524425726992394509
+    second: Old_Golem_death_21
+  - first:
+      213: -6373430114371541763
+    second: Old_Golem_death_22
+  - first:
+      213: -8054968379223925735
+    second: Old_Golem_death_23
+  - first:
+      213: -6926842407750073736
+    second: Old_Golem_death_24
+  - first:
+      213: -4923595328181657534
+    second: Old_Golem_death_25
+  - first:
+      213: 2309593141345960063
+    second: Old_Golem_death_26
+  - first:
+      213: -3854008949138424005
+    second: Old_Golem_death_27
+  - first:
+      213: -4993218253406382123
+    second: Old_Golem_death_28
+  - first:
+      213: 1977597479170639365
+    second: Old_Golem_death_29
+  - first:
+      213: -1667479706962381967
+    second: Old_Golem_death_30
+  - first:
+      213: 6965663832493191201
+    second: Old_Golem_death_31
+  - first:
+      213: -4969215375356003000
+    second: Old_Golem_death_32
+  - first:
+      213: 7967157771178050896
+    second: Old_Golem_death_33
+  - first:
+      213: 8060481647580418985
+    second: Old_Golem_death_34
+  - first:
+      213: 3640830320673033335
+    second: Old_Golem_death_35
+  - first:
+      213: 5200531615986308178
+    second: Old_Golem_death_36
+  - first:
+      213: -8892937053822038581
+    second: Old_Golem_death_37
+  - first:
+      213: -2985285924436276134
+    second: Old_Golem_death_38
+  - first:
+      213: 1646779214505777426
+    second: Old_Golem_death_39
+  - first:
+      213: -5522131898250531756
+    second: Old_Golem_death_40
+  - first:
+      213: 360955123639942289
+    second: Old_Golem_death_41
+  - first:
+      213: 6819056838626312110
+    second: Old_Golem_death_42
+  - first:
+      213: -3802943689663443459
+    second: Old_Golem_death_43
+  - first:
+      213: 3266088314007278944
+    second: Old_Golem_death_44
+  - first:
+      213: -2804618847049180547
+    second: Old_Golem_death_45
+  - first:
+      213: -5701843404980197998
+    second: Old_Golem_death_46
+  - first:
+      213: -8399421583856191969
+    second: Old_Golem_death_47
+  - first:
+      213: -1323825839843280778
+    second: Old_Golem_death_48
+  - first:
+      213: 6387804768860604232
+    second: Old_Golem_death_49
+  - first:
+      213: 4694112654930354664
+    second: Old_Golem_death_50
+  - first:
+      213: -8084506096668456149
+    second: Old_Golem_death_51
+  - first:
+      213: 5861677889351114462
+    second: Old_Golem_death_52
+  - first:
+      213: 7980467525647999610
+    second: Old_Golem_death_53
+  - first:
+      213: 3499098438698347828
+    second: Old_Golem_death_54
+  - first:
+      213: -5238124740935116588
+    second: Old_Golem_death_55
+  - first:
+      213: -8775747917281217307
+    second: Old_Golem_death_56
+  - first:
+      213: -3998191475362183440
+    second: Old_Golem_death_57
+  - first:
+      213: 4621560293290350740
+    second: Old_Golem_death_58
+  - first:
+      213: 219718384344528568
+    second: Old_Golem_death_59
+  - first:
+      213: -6720268319019993273
+    second: Old_Golem_death_60
+  - first:
+      213: -6915461867703651645
+    second: Old_Golem_death_61
+  - first:
+      213: 4779333147332773834
+    second: Old_Golem_death_62
+  - first:
+      213: 5966596639662476259
+    second: Old_Golem_death_63
+  - first:
+      213: 8580987460073879676
+    second: Old_Golem_death_64
+  - first:
+      213: 7507147489324184253
+    second: Old_Golem_death_65
+  - first:
+      213: -6357491139852376086
+    second: Old_Golem_death_66
+  - first:
+      213: 2345397341563239325
+    second: Old_Golem_death_67
+  - first:
+      213: -4649176883606361177
+    second: Old_Golem_death_68
+  - first:
+      213: -7963890217293652660
+    second: Old_Golem_death_69
+  - first:
+      213: 5044464949179217360
+    second: Old_Golem_death_70
+  - first:
+      213: -4340064273345525982
+    second: Old_Golem_death_71
+  - first:
+      213: 4875011421619131615
+    second: Old_Golem_death_72
+  - first:
+      213: 8053448897766911912
+    second: Old_Golem_death_73
+  - first:
+      213: 3622414571020377636
+    second: Old_Golem_death_74
+  - first:
+      213: 7140959387317254712
+    second: Old_Golem_death_75
+  - first:
+      213: -2782433565277791790
+    second: Old_Golem_death_76
+  - first:
+      213: 2046230407866298534
+    second: Old_Golem_death_77
+  - first:
+      213: 1695713314136099199
+    second: Old_Golem_death_78
+  - first:
+      213: 3301357436417651757
+    second: Old_Golem_death_79
+  - first:
+      213: -8485541416728716237
+    second: Old_Golem_death_80
+  - first:
+      213: -8793952321872797917
+    second: Old_Golem_death_81
+  - first:
+      213: -837083306437821631
+    second: Old_Golem_death_82
+  - first:
+      213: -8886562121533613660
+    second: Old_Golem_death_83
+  - first:
+      213: 8107413186202751624
+    second: Old_Golem_death_84
+  - first:
+      213: -8403520022937630030
+    second: Old_Golem_death_9
+  - first:
+      213: -4612284960295331341
+    second: Old_Golem_death_10
+  - first:
+      213: -5352894159651195299
+    second: Old_Golem_death_11
+  - first:
+      213: -4145153920103516562
+    second: Old_Golem_death_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Old_Golem_death_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1475
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d4c4e1711e0f580800000000000000
+      internalID: -8795282582845764243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1315
+        width: 62
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf9f032399f2e3a0800000000000000
+      internalID: -6637468490446954545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1155
+        width: 67
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5a1f90b35fed2a0800000000000000
+      internalID: -6710656760816753226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 995
+        width: 83
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a5744cdd6974f90800000000000000
+      internalID: -6969436019107603964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 935
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef03ab37fbe93d40800000000000000
+      internalID: 5564738261682950123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 834
+        width: 76
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b757eb9d5d6113f0800000000000000
+      internalID: -931843399073966158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 923
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4d55ea273bf3f10800000000000000
+      internalID: 2251715643841041659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 869
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b454b1bb53e0357c0800000000000000
+      internalID: -4083904813159725749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 863
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e777d7af478f290800000000000000
+      internalID: -7856400930752201174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 734
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da5a0a87dfe639c0800000000000000
+      internalID: -3947704314330719529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_16
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 724
+        width: 5
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9cdc8a056450bf00800000000000000
+      internalID: 1130496299415428255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_18
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 675
+        width: 93
+        height: 110
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6151718f17a00b0800000000000000
+      internalID: -5761667462914042176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_23
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 611
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c9a57afe0073090800000000000000
+      internalID: -8054968379223925735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 602
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70ca9da9b25d0020800000000000000
+      internalID: 2309593141345960063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_28
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 599
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d757b7247684bab0800000000000000
+      internalID: -4993218253406382123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 602
+        width: 8
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5068ca6fd66d17b10800000000000000
+      internalID: 1977597479170639365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 590
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dfe73b1fcc90bb0800000000000000
+      internalID: -4969215375356003000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 584
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c003ff2e3d68230800000000000000
+      internalID: 3640830320673033335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_52
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 452
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eded88edbfcd85150800000000000000
+      internalID: 5861677889351114462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 432
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4981f95c994132040800000000000000
+      internalID: 4621560293290350740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 429
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b67a79d4b89c0300800000000000000
+      internalID: 219718384344528568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_60
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 434
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7477081c19fccb2a0800000000000000
+      internalID: -6720268319019993273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_62
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 424
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7050eec2a935240800000000000000
+      internalID: 4779333147332773834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_74
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 353
+        width: 145
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e5ed62cd6654230800000000000000
+      internalID: 3622414571020377636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_78
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 196
+        width: 148
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f798bf16642688710800000000000000
+      internalID: 1695713314136099199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 35
+        width: 146
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a91c8f55d69ca480800000000000000
+      internalID: -8886562121533613660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 512
+        width: 120
+        height: 119
+      alignment: 9
+      pivot: {x: 0.49999994, y: 0.0015746044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba8be91013b06b80800000000000000
+      internalID: -8403520022937630030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Old_Golem_death_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 410
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f958baf34fddffb0800000000000000
+      internalID: -4612284960295331341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
